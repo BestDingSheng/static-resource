@@ -49,7 +49,7 @@
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical
+    -webkit-box-orient: vertical;
     color: #3273dc;
     margin-bottom: 3px;
 }
