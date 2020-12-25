@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".xe-user-name").on("click",function(e){e.preventDefault()})});
